@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "140245993130",
+    "firebase_url": "https://lapchat-3bd34.firebaseio.com",
+    "project_id": "lapchat-3bd34",
+    "storage_bucket": "lapchat-3bd34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140245993130:android:e3e037c45515975b",
+        "android_client_info": {
+          "package_name": "com.example.alexander.lapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140245993130-ocaih74j17b0qe945ad3u05kqs0astf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alexander.lapchat",
+            "certificate_hash": "8f6c14f780144e114522944bb34172dc242e6438"
+          }
+        },
+        {
+          "client_id": "140245993130-8308oi760uksci7bvrajpa3kgtklupnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKqEn6bpPsLtBABSB5mQOJbQmQp7oDNKE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140245993130-8308oi760uksci7bvrajpa3kgtklupnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
